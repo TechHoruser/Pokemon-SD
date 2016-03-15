@@ -3,3 +3,4 @@ Fichero iPython el cual tiene distintos bloques:
  - Interfaz que muestra dicho listado
  - Método que crea todas los posibles listados encadenando el último carácter del listado con el primero del nuevo elemento.
  - Método que obtiene la sublista encadenada mas larga.
+JR
